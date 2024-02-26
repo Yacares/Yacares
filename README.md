@@ -1,23 +1,16 @@
-<h1 align="center"><b>Hi, I'm Lautaro</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi 👋, I'm Lautaro</b></h1>
+<h3 align="center">A fullstack developer from Argentina</h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola%2C+Soy+Lautaro%21;Desarrollador+Fullstack+de+Argentina;Amante+del+aprendizaje+y+la+tecnología"></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yacares&label=Profile%20views&color=0e75b6&style=flat" alt="yacares" /> </p>
 
-<br>
+- 📄 Know about my experiences:
+  
+-During two years, I pursued studies as a "Systems Analysts" at the National University of Lanús, Argentina, where I acquired a solid understanding of algorithms and proficiency in various programming languages such as C, C++, and C#. Additionally, my fluency in English 
+ and Spanish, cultivated over ten years of residency in the United States, supported by an international distinction in English proficiency from ANGLIA certification, enables me to effectively communicate in multicultural environments.
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> **About me**
+-My work experience spans five years in graphic design and customer service, providing me with strong computer handling skills and a commitment to customer satisfaction. Furthermore, I have provided PC repair services, addressing both software and hardware aspects.
 
-
-<br>
-
-- Passionate Self-taught Fullstack Developer
-- Fluent in English and Spanish
-- Strong background in graphic design and customer service
-- Committed to continued learning and skill development
-
-<br>
-<br>
+-I am committed to continued learning and acquiring new skills to contribute to a future work team's success.
 
 - 🔭 I’m currently working on [Animaladas](https://animaladas03.vercel.app/)
 
