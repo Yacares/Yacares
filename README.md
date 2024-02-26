@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="in/lautaro-gabriel-rodriguez-a16a53252" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-gabriel-rodriguez" height="30" width="40" /></a>
+  <a href="[in/lautaro-gabriel-rodriguez-a16a53252](https://www.linkedin.com/in/lautaro-gabriel-rodriguez-a16a53252/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-gabriel-rodriguez" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/yacares7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yacares7" height="30" width="40" /></a>
 </p>
 
