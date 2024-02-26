@@ -5,7 +5,8 @@
 
 - 📄 Know about my experiences:
   
-During two years, I pursued studies as a "Systems Analysts" at the National University of Lanús, Argentina, where I acquired a solid understanding of algorithms and proficiency in various programming languages such as C, C++, and C#. Additionally, my fluency in English and Spanish, cultivated over ten years of residency in the United States, supported by an international distinction in English proficiency from ANGLIA certification, enables me to effectively communicate in multicultural environments.
+-During two years, I pursued studies as a "Systems Analysts" at the National University of Lanús, Argentina, where I acquired a solid understanding of algorithms and proficiency in various programming languages such as C, C++, and C#. Additionally, my fluency in English 
+ and Spanish, cultivated over ten years of residency in the United States, supported by an international distinction in English proficiency from ANGLIA certification, enables me to effectively communicate in multicultural environments.
 
 -My work experience spans five years in graphic design and customer service, providing me with strong computer handling skills and a commitment to customer satisfaction. Furthermore, I have provided PC repair services, addressing both software and hardware aspects.
 
