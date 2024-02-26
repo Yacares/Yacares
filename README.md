@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Lautaro</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola%2C+Soy+Lautaro%21;Desarrollador+Fullstack+de+Argentina;Amante+del+aprendizaje+y+la+tecnología"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Lautaro%21;Fullstack+Developer+from+Argentina;I+love+learning+and+technology"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yacares&label=Profile%20views&color=0e75b6&style=flat" alt="yacares" /> </p>
 <br>
@@ -10,7 +10,7 @@
 
 <br>
 
-- Passionate Self-taught Fullstack Developer
+- Passionate Fullstack Developer
 - Fluent in English and Spanish
 - Strong background in graphic design and customer service
 - Committed to continued learning and skill development
